@@ -1,0 +1,34 @@
+{
+  "name": "wechat-miniprogramm-storage",
+  "version": "1.0.0",
+  "description": "wechat miniprogram storage library",
+  "main": "src/index.js",
+  "keywords": ["miniprogram", "storage"],
+  "homepage": "https://github.com/skyclouds2001/wechat-miniprogramm-storage#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyclouds2001/wechat-miniprogramm-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skyclouds2001/wechat-miniprogramm-storage/issues",
+    "email": "skyclouds2001@163.com"
+  },
+  "author": {
+    "name": "skyclouds2001",
+    "email": "skyclouds2001@163.com",
+    "url": "https://skyclouds2001.github.io"
+  },
+  "contributors": ["skyclouds2001"],
+  "license": "MIT",
+  "packageManager": "npm@9.6.4",
+  "engines": {
+    "node": "=18.13.0",
+    "npm": "=9.6.4"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "miniprogram-api-typings": "^3.9.1"
+  },
+  "miniprogram": "dist"
+}
