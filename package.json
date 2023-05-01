@@ -29,6 +29,5 @@
   "dependencies": {},
   "devDependencies": {
     "miniprogram-api-typings": "^3.9.1"
-  },
-  "miniprogram": "dist"
+  }
 }
